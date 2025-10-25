@@ -49,16 +49,7 @@ I continue to experiment across fields: from generative media and interface desi
 
 ---
 
-## 💡 Philosophy  
-
-> “I live in this world simply to understand some truths and encounter interesting things.”  
-
-That line captures my path — an ongoing journey through creativity, technology, and culture.  
-Through this platform, I hope to meet curious minds and create meaningful connections across disciplines.  
-
----
-
 📍 **Website:** [www.0xgarfield.com](https://0xgarfield.com)  
-💬 **Twitter / X:** [@JohnGarfieldAI](https://x.com/JohnGarfieldAI)  
+💬 **Twitter / X:** [@DJWZ]([https://x.com/DJWZ)
 
 © 2025 **0xGarfield.com** · All Rights Reserved
