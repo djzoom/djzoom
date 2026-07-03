@@ -2,7 +2,7 @@
 
 # 0xGarfield
 
-Speech & Audio ML · macOS Engineering 
+Speech & Audio ML · macOS Engineering · Founder @ Pilo Labs
 
 I build speech recognition systems and ship production audio software — end to end, solo.
 
@@ -26,37 +26,32 @@ I know what "good" sounds like — timing, prosody, pacing — before the metric
 
 ## Current Focus
 
-- **AURORA** — ASR research pipeline: Whisper → Conformer → RNN-T. Data prep,
--   training, evaluation, streaming inference. TalkTalk's internal R&D engine.
--   - **TalkTalk** — shipped macOS teleprompter (Swift), 300+ commits, two major
-    -   architecture rewrites. Exploring breath-group-based line breaking and
-    -     broadcast-grade prosody metrics.
-    - - **LiveCaption** — real-time speech interfaces: low-latency streaming ASR,
-      -   bilingual (zh/en).
-     
-      -   ## Selected Projects
-     
-      -   - **MU5735** — reconstructing a tragedy through open aviation data and 3D visualization.
-          - - **kimchi-fermentation-simulator** — food science as an interactive numerical model.
-            - - **polymarket-trends** — live dashboards tracking prediction-market movement.
-              - - **0xgarfield-home** — personal site and publishing hub.
-               
-                - ## Research Interests
-               
-                - - Streaming / on-device ASR
-                  - - Prosody and paralinguistics
-                    - - Bilingual (zh/en) speech systems
-                      - - Human-in-the-loop audio tooling
-                       
-                        - ## Background
-                       
-                        - Nearly two decades in professional broadcasting (HIT FM / China Radio
-                        - International, Phoenix URadio). Judge, 47th International Emmy Awards
-                        - (Long-Form Documentary Sound). Chemistry degree — the quantitative habits stuck.
-                       
-                        - ## Links
-                       
-                        - - Website: [0xgarfield.com](https://0xgarfield.com)
-                          - - X: [@DJWZ](https://x.com/DJWZ)
-                            - - Email: [djwangzhong@gmail.com](mailto:djwangzhong@gmail.com)
-                              - 
+- **AURORA** — ASR research pipeline: Whisper → Conformer → RNN-T. Data prep, training, evaluation, streaming inference. TalkTalk's internal R&D engine.
+- **TalkTalk** — shipped macOS teleprompter (Swift), 300+ commits, two major architecture rewrites. Exploring breath-group-based line breaking and broadcast-grade prosody metrics.
+- **LiveCaption** — real-time speech interfaces: low-latency streaming ASR, bilingual (zh/en).
+
+## Selected Projects
+
+- **MU5735** — reconstructing a tragedy through open aviation data and 3D visualization.
+- **kimchi-fermentation-simulator** — food science as an interactive numerical model.
+- **polymarket-trends** — live dashboards tracking prediction-market movement.
+- **0xgarfield-home** — personal site and publishing hub.
+
+## Research Interests
+
+- Streaming / on-device ASR
+- Prosody and paralinguistics
+- Bilingual (zh/en) speech systems
+- Human-in-the-loop audio tooling
+
+## Background
+
+Nearly two decades in professional broadcasting (HIT FM / China Radio
+International, Phoenix URadio). Judge, 47th International Emmy Awards
+(Long-Form Documentary Sound). Chemistry degree — the quantitative habits stuck.
+
+## Links
+
+- Website: [0xgarfield.com](https://0xgarfield.com)
+- X: [@DJWZ](https://x.com/DJWZ)
+- Email: [djwangzhong@gmail.com](mailto:djwangzhong@gmail.com)
