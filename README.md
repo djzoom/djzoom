@@ -2,7 +2,7 @@
 
 # 0xGarfield
 
-Speech & Audio ML · macOS Engineering · Founder @ Pilo Labs
+Speech & Audio ML · macOS Engineering 
 
 I build speech recognition systems and ship production audio software — end to end, solo.
 
