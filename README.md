@@ -2,7 +2,7 @@
 
 # 0xGarfield
 
-Speech & Audio ML · macOS Engineering · Founder @ Pilo Labs
+Speech & Audio ML · macOS Engineering · Founder of Soundario
 
 I build audio and speech AI from first principles — and ship what I learn.
 
