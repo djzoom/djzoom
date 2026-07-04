@@ -4,7 +4,7 @@
 
 Speech & Audio ML · macOS Engineering · Founder @ Pilo Labs
 
-I build speech recognition systems and ship production audio software — end to end, solo.
+I build audio and speech AI from first principles — and ship what I learn.
 
 [Website](https://0xgarfield.com) · [Email](mailto:djwangzhong@gmail.com) · [X](https://x.com/DJWZ)
 
@@ -14,11 +14,13 @@ I build speech recognition systems and ship production audio software — end to
 
 ## About
 
-I work on automatic speech recognition and audio ML. My main research project is
-**AURORA**, a pipeline spanning Whisper fine-tuning, Conformer encoders, and RNN-T
-streaming decoders — and I ship what I learn: **TalkTalk**, a macOS teleprompter
-built in Swift, is live with the full production pipeline (StoreKit/IAP, code
-signing, notarization) handled solo.
+I work on audio and speech AI from first principles. My main project is **AURORA**,
+a from-scratch course that rebuilds the audio-AI stack by hand in NumPy — from a
+single sine wave to Whisper (FFT, MFCC, backprop, attention, CTC, RAG), no
+black-box libraries. It's open-core: Lesson 1 is free and open source. I designed
+and directed the curriculum; it's built with AI-assisted pair programming. And I
+ship what I learn: **TalkTalk**, a macOS teleprompter built in Swift, is live
+(StoreKit/IAP, code signing, notarization).
 
 Before I wrote software, I spent nearly two decades as a broadcaster designing
 audio for millions of listeners. That gives me an unusual edge in speech ML:
@@ -26,9 +28,9 @@ I know what "good" sounds like — timing, prosody, pacing — before the metric
 
 ## Current Focus
 
-- **AURORA** — ASR research pipeline: Whisper → Conformer → RNN-T. Data prep, training, evaluation, streaming inference. TalkTalk's internal R&D engine.
+- **AURORA** — a from-scratch audio-AI course: 99 lessons, every algorithm hand-written in NumPy (FFT · STFT · Mel · MFCC · attention · CTC · RAG), validated against reference implementations. Open core — [Lesson 1 free](https://github.com/djzoom/AURORA-oss).
 - **TalkTalk** — shipped macOS teleprompter (Swift), 300+ commits, two major architecture rewrites. Exploring breath-group-based line breaking and broadcast-grade prosody metrics.
-- **LiveCaption** — real-time speech interfaces: low-latency streaming ASR, bilingual (zh/en).
+- **LiveCaption** — exploring real-time, low-latency bilingual (zh/en) speech interfaces.
 
 ## Selected Projects
 
