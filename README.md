@@ -1,6 +1,6 @@
 <div align="center">
 
-# 0xGarfield
+# 加菲众 Garfield Zhong Wang
 
 Radio DJ · Speech & Audio ML · macOS Engineering · Founder & CEO
 
