@@ -17,7 +17,7 @@ I build audio and speech AI from first principles — and ship what I learn.
 I work on audio and speech AI from first principles. My main project is **AURORA**,
 a from-scratch course that rebuilds the audio-AI stack by hand in NumPy — from a
 single sine wave to Whisper (FFT, MFCC, backprop, attention, CTC, RAG), no
-black-box libraries. It's open-core: Lesson 1 is free and open source. I designed
+black-box libraries. The whole course is open source under the MIT license. I designed
 and directed the curriculum; it's built with AI-assisted pair programming. And I
 ship what I learn: **TalkTalk**, a macOS teleprompter built in Swift, is live
 (StoreKit/IAP, code signing, notarization).
@@ -28,7 +28,7 @@ I know what "good" sounds like — timing, prosody, pacing — before the metric
 
 ## Current Focus
 
-- **AURORA** — a from-scratch audio-AI course: 99 lessons, every algorithm hand-written in NumPy (FFT · STFT · Mel · MFCC · attention · CTC · RAG), validated against reference implementations. Open core — [Lesson 1 free](https://github.com/djzoom/AURORA-oss).
+- **AURORA** — a from-scratch audio-AI course: 99 lessons, every algorithm hand-written in NumPy (FFT · STFT · Mel · MFCC · attention · CTC · RAG), validated against reference implementations. Fully open source (MIT) — [all 99 lessons on GitHub](https://github.com/djzoom/AURORA).
 - **TalkTalk** — shipped macOS teleprompter (Swift), 300+ commits, two major architecture rewrites. Exploring breath-group-based line breaking and broadcast-grade prosody metrics.
 - **LiveCaption** — exploring real-time, low-latency bilingual (zh/en) speech interfaces.
 
@@ -49,8 +49,8 @@ I know what "good" sounds like — timing, prosody, pacing — before the metric
 ## Background
 
 Nearly two decades in professional broadcasting (HIT FM / China Radio
-International, Phoenix URadio). Judge, 47th International Emmy Awards
-(Long-Form Documentary Sound). Chemistry degree — the quantitative habits stuck.
+International, Phoenix URadio). Judge, 47th News & Documentary Emmy® Awards
+(Documentary Categories – Sound), NATAS, 2026. Chemistry degree — the quantitative habits stuck.
 
 ## Links
 
